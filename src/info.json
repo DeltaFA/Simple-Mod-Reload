@@ -6,7 +6,7 @@
   "author": "AzzyBunn",
   "contact": "",
   "homepage": "",
-  "description": "Adds a shortcut and a keybind to reload mod scripts.",
+  "description": "Simple utitily for modders. Adds a shortcut and a keybind to reload mod scripts.",
   "dependencies": [
     "base >= 2.0.21"
   ]
