@@ -4,7 +4,7 @@ data:extend{
 		name = "simple-mod-reload",
 		order = "c-b",
 		action = "lua",
-		style = "blue",
+		style = "green",
 		icon = "__core__/graphics/icons/mip/reset-white.png",
 		icon_size = 32,
 		small_icon = "__core__/graphics/icons/mip/reset-white.png",
